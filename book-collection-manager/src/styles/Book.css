@@ -121,7 +121,7 @@
   border-color: var(--accent-peach);
   box-shadow: 0 8px 24px rgba(224, 130, 102, 0.25);
   z-index: 5;
-}.
+}
 
 .card-image-wrapper {
   position: relative;
